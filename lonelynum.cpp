@@ -1,3 +1,9 @@
+/*
+ * Consider an array of n integers, A=[A0,A1,A2,...,An-1], where all but 
+ * one of the integers occur in pairs. In other words, every element 
+ * in  occurs exactly twice except for one unique element.
+ * Given A, find and print the unique element.
+ */
 #include <map>
 #include <set>
 #include <list>
